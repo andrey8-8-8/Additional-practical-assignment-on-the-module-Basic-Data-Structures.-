@@ -26,3 +26,4 @@ for student in students_data:
 # Выводим результат
 for student, grades in average_grades.items():
     print(f"{student}: {grades}")
+    print('good')
